@@ -1,0 +1,49 @@
+.form{
+    background-color: #e9e7e7;
+    padding-bottom: 215px;
+    padding-top: 195px;
+}
+.form h4{
+    font-family: 'Cardo';
+    font-size: 65px;
+    color: #232323;
+    padding-bottom: 5px;
+}
+
+.form input{
+    font-family: 'Lato';
+    font-size: 20.87px;
+    color: #232323;
+    background-color: #e9e7e7;
+    border: 2px solid #232323;
+    margin-top: 25px;
+}
+
+.form textarea{
+    font-family: 'Lato';
+    font-size: 20.87px;
+    resize: none;
+    color: #232323;
+    background-color: #e9e7e7;
+    border: 2px solid #232323;
+    width: 455px;
+    height: 220px;
+    margin: 25px 45px 0 0;
+    text-wrap: none;
+}
+
+.form button{
+    font-family: 'Lato';
+    font-size: 24px;
+    color: #e9e7e7;
+    background-color: #232323;
+    width: 452px;
+    height: 66px;
+    margin-top: 70px;
+}
+
+.form img{
+    width: 600px;
+    height: 680px;
+    margin-left: 40px;
+}

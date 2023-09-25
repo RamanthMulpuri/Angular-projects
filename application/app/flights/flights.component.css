@@ -1,0 +1,92 @@
+.spacer{
+    position: relative;
+    margin-top: 30px;
+}
+
+.spacer::after{
+    content: "";
+    width: 50px;
+    height: 3px;
+    background-color: #232323;
+    position: absolute;
+}
+
+.flights{
+    padding-top: 167px;
+    background-color: #e9e7e7;
+    background-image: url(../../assets/images/flightsBg.png);
+    background-repeat: no-repeat;
+    background-position: -225px 35px;
+}
+
+.flights h4{
+    padding: 28px 0;
+    font-size: 42px;
+    font-family: 'Cardo';
+}
+
+/* .plane{ */
+    /* padding: 400px, 0; */
+    /* margin: 0 auto; */
+/* }  */
+
+.plane{
+    padding-top: 400px;
+    text-align: center;
+}
+ 
+.plane h4{
+    font-size: 97.7px;
+    font-family: 'Cardo';
+    color: #232323;
+}
+
+.plane p{
+    font-size: 25px;
+    font-family: 'latoBlack';
+    color: #232323;
+}
+
+ .flights-final{
+    padding-top: 250px;
+ }
+ .flights-final .tape{
+    padding-bottom: 50px;
+ }
+
+.flights-final h4{
+    font-family: 'Cardo';
+    font-size: 36.34px;
+    color: #232323;
+}
+
+.flights-final p{
+    font-family: 'Lato';
+    font-size: 16.66px;
+    color: #232323;
+}
+
+.right_path{
+    margin-left: 8rem;
+}
+
+.right_path h4{
+    font-family: 'Cardo';
+    font-size: 36.34px;
+    color: #232323;
+    padding-top: 77px;
+}
+.right_path p{
+    font-family: 'Lato';
+    font-size: 16.66px;
+    color: #232323;
+}
+
+
+.para{
+    padding-top: 77px;
+}
+
+.arrow_img{
+padding: 45px 88px;
+}

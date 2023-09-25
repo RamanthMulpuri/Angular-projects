@@ -1,0 +1,41 @@
+.nav-link {
+    margin-right: 75px;
+}
+
+header h1 {
+    font-family: 'Cardo';
+    font-size: 45.56pt;
+    line-height: 45.56pt;
+
+}
+
+header p {
+    font-family: 'Lato';
+    font-size: 14px;
+}
+
+nav {
+    padding: 76px 0 100px 0;
+}
+
+header .row a {
+    font-family: 'latoBlack';
+    text-decoration: none;
+    background-color: #232323;
+    padding: 15px 60px;
+    color: #e9e7e7;
+    margin-top: 53px;
+    display: inline-block;
+}
+
+header {
+    background-image: url(../../assets/images/scrBl.png);
+    background-size: cover;
+    background-position: -100px 282px;
+    background-repeat: no-repeat;
+    background-color: #e9e7e7;
+}
+
+.row img {
+    padding-bottom: 150px;
+}

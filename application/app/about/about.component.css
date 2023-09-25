@@ -1,0 +1,45 @@
+.about{
+    background-color: #e9e7e7;
+}
+.container h4 {
+    text-align: center;
+    color: #232323;
+    font-size: 55px;
+    font-family: 'Cardo';
+    padding: 50px;
+}
+b ins{
+    font-family: 'latoBlack';
+}
+.about p{
+    font-family: 'Lato';
+    /* font-size: x-small; */
+}
+.row h5{
+    font-family: 'latoBlack';
+}
+img {
+    /* padding: 10px; */
+    max-width: 100%;
+}
+
+span {
+    align-items: center;
+}
+ul{
+    padding: 25px 0 0 50px;
+}
+h5 ins{
+    font-family: 'latoBlack';
+    padding: 25px 0 0 50px;
+}
+ul li {
+    padding-top: 25px;
+}
+
+ul li a {
+    text-decoration: none;
+    font-family: 'Lato';
+    color: #232323;
+
+}

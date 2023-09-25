@@ -1,0 +1,44 @@
+footer {
+    background-color: #c4c4c4;
+    padding: 95px ;
+    background-image: url(../../assets/images/footerBg.png);
+    background-repeat: no-repeat;
+    background-position: -550px 350px;
+}
+
+footer h4 {
+    font-family: 'Cardo';
+    font-size: 40.34px;
+    color: #232323;
+    /* padding-top: 115px; */
+}
+
+footer h5 {
+    font-family: 'latoBlack';
+    font-size: 18.34px;
+    color: #232323;
+    margin-bottom: 40px;
+}
+
+ul {
+    list-style-type: none;
+    padding-left: 0;
+}
+
+ul li {
+    padding-bottom: 30px;
+}
+
+ul li a {
+    text-decoration: none;
+    font-family: 'Lato';
+    color: #232323;
+}
+
+footer p {
+    text-align: center;
+    font-family: 'Lato';
+    font-size: 15px;
+    color: #232323;
+    margin-top: 60px;
+}

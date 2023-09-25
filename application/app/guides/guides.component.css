@@ -1,0 +1,38 @@
+.guides{
+    background-color: #232323;
+    padding-top: 120px;
+    background-image: url(../../assets/images/guidesScrBg.png);
+    background-repeat: no-repeat;
+    background-position: -280px 630px;
+    
+}
+
+
+.guides h4{
+    font-family: 'Cardo';
+    font-size: 30.44px;
+    color: #e9e7e7;
+    /* padding: 85px 40px 50px 40px; */
+}
+
+.guides h5{
+    font-family: 'latoBlack';
+    font-size: 18.99px;
+    color: #e9e7e7;
+    padding-top: 65px;
+}
+
+.guides p{
+    font-family: 'Lato';
+    font-size: 12.66px;
+    color: #e9e7e7;
+}
+
+.guides img{
+    max-width: 100%;
+    margin-left: 73px;
+}
+
+.row{
+    padding-bottom: 135px;
+}

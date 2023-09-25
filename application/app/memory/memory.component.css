@@ -1,0 +1,17 @@
+.memory{
+    background-color: #232323;
+    color: #e9e7e7;
+    text-align: center;
+    padding: 50px 0;
+    position: relative;
+    z-index: -1;
+    background-image: url(../../assets/images/scrBoth.png) !important;
+    background-size: cover;
+    background-position: -100px -300px;
+    background-repeat: no-repeat;
+}
+
+.memory p{
+    padding: 40px 0;
+}
+
